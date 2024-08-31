@@ -6,4 +6,5 @@ y=a-b
 #thesee
 #out
 
+#b-9
 #a=9
